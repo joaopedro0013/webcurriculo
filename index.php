@@ -14,7 +14,7 @@
                 Este é o meu site 
             </div>
             <p>
-                Aqui vou falar sobre as minhas caracteristicas e gostos
+                Aqui vou falar sobre as minhas caracteristicas e gostos!
             </p>
         </div>
     </body>
